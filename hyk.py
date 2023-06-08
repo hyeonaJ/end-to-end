@@ -1,2 +1,3 @@
 print('hyk')
-pritn('hi')
+print('hi')
+print('hello')
