@@ -1,1 +1,2 @@
 print('hyk')
+pritn('hi')
